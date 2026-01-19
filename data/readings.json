@@ -1,0 +1,62 @@
+[
+  {
+    "sensor_id": "sensor_rotterdam_001",
+    "readings": {
+      "pm25": 12.0,
+      "pm10": 22.0,
+      "no2": 4.0,
+      "o3": 33.0
+    },
+    "timestamp": "2025-12-21T17:41:57.313722"
+  },
+  {
+    "sensor_id": "sensor_amsterdam_001",
+    "readings": {
+      "pm25": 12.0,
+      "pm10": 22.0,
+      "no2": 4.0,
+      "o3": 33.0
+    },
+    "timestamp": "2025-12-21T20:50:48.055764"
+  },
+  {
+    "sensor_id": "sensor_rotterdam_001",
+    "readings": {
+      "pm25": 12.0,
+      "pm10": 22.0,
+      "no2": 4.0,
+      "o3": 33.0
+    },
+    "timestamp": "2025-12-21T20:51:34.674677"
+  },
+  {
+    "sensor_id": "sensor_rotterdam_001",
+    "readings": {
+      "pm25": 50.0,
+      "pm10": 22.0,
+      "no2": 4.0,
+      "o3": 33.0
+    },
+    "timestamp": "2025-12-21T20:52:39.835060"
+  },
+  {
+    "sensor_id": "sensor_rotterdam_001",
+    "readings": {
+      "pm25": 50.0,
+      "pm10": 22.0,
+      "no2": 4.0,
+      "o3": 33.0
+    },
+    "timestamp": "2025-12-21T20:52:41.602980"
+  },
+  {
+    "sensor_id": "sensor_zaanstad_001",
+    "readings": {
+      "pm25": 50.0,
+      "pm10": 22.0,
+      "no2": 4.0,
+      "o3": 33.0
+    },
+    "timestamp": "2025-12-21T20:53:14.094026"
+  }
+]
